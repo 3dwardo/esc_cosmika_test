@@ -1,0 +1,13 @@
+body{
+    background-color: lawngreen;
+}
+h1{
+    font-size: 70px;
+    color: hotpink;
+    font-weight: bolder;
+}
+p{
+    font-size: 30px;
+    color: lightseagreen;
+    font-style: italic;
+}
